@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.0.1...v1.1.0) (2023-04-19)
+
+
+### Features
+
+* Add ([2199580](https://github.com/Albisetti/ReleasePleaseTest/commit/219958007f839eec48030cada1b40255410f1a15))
+* Add content to div ([1e49860](https://github.com/Albisetti/ReleasePleaseTest/commit/1e4986011f7118b19073542454b6d23d42e3b75c))
+* Added more content to div ([a12d9a3](https://github.com/Albisetti/ReleasePleaseTest/commit/a12d9a307309e17dbbde262dea7b01439178f8ea))
+* change default branch ([3e2fca0](https://github.com/Albisetti/ReleasePleaseTest/commit/3e2fca08cad7ef51dac12c03ef414fe95e98a728))
+* update yaml ([02a9d6b](https://github.com/Albisetti/ReleasePleaseTest/commit/02a9d6b3bfdfc3bfb9420cc795e9eae066329f9c))
+* update yaml ([5b1f51a](https://github.com/Albisetti/ReleasePleaseTest/commit/5b1f51a0383806dad279a705a7c58f1bf822676f))
+
 ## [1.0.1](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.0.0...v1.0.1) (2023-04-19)
 
 
