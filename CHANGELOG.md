@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.0.0...v1.0.1) (2023-04-19)
+
+
+### Bug Fixes
+
+* Add div ([e3579ac](https://github.com/Albisetti/ReleasePleaseTest/commit/e3579ac8b33d27075c55f31e052d9aac6d0919c3))
+
 ## 1.0.0 (2023-04-19)
 
 
