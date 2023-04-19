@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.3.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.2.0...v1.3.0) (2023-04-19)
+
+
+### Features
+
+* aaaaaaaaa ([e3a38b8](https://github.com/Albisetti/ReleasePleaseTest/commit/e3a38b85d951f22cf6cdb90d10a097d423832e60))
+* Added more content ([48cc9f0](https://github.com/Albisetti/ReleasePleaseTest/commit/48cc9f0585360999f5b46fbfa64a8cd289431cda))
+* **Test:** Add commit ([cd1108d](https://github.com/Albisetti/ReleasePleaseTest/commit/cd1108de0f4fef9ec39613a9d8b47d8310f737c8))
+* Updated content ([f1d0117](https://github.com/Albisetti/ReleasePleaseTest/commit/f1d011797fbde27c2adabce47d85978079f61dc6))
+
 ## [1.2.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.1.0...v1.2.0) (2023-04-19)
 
 ### Features
