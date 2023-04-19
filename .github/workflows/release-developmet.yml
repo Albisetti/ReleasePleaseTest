@@ -17,4 +17,3 @@ jobs:
         with:
           release-type: node
           skip-github-release: true
-          command: release-pr
