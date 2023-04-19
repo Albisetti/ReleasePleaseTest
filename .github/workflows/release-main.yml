@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main # Change to your default branch if it's different from 'main'
+      - development # Change to your default branch if it's different from 'main'
 
 permissions:
   contents: write
@@ -15,3 +15,4 @@ jobs:
         id: release
         with:
           release-type: node # Change to your project type, if needed
+          default-branch: main
