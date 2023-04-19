@@ -44,6 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
+        id: release
         with:
           token: ${{ secrets.TOKEN }}
-          release_type: node # Change to your project type, if needed
+          release-type: node # Change to your project type, if needed
