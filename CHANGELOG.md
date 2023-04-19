@@ -1,12 +1,23 @@
 # Changelog
 
+## [1.3.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.2.0...v1.3.0) (2023-04-19)
+
+
+### Features
+
+* aaaaaaaaa ([e3a38b8](https://github.com/Albisetti/ReleasePleaseTest/commit/e3a38b85d951f22cf6cdb90d10a097d423832e60))
+* Add new release stategy ([e5fa15a](https://github.com/Albisetti/ReleasePleaseTest/commit/e5fa15a2f911ea63057d96b1a8ca21732aad1f20))
+* Added more content ([48cc9f0](https://github.com/Albisetti/ReleasePleaseTest/commit/48cc9f0585360999f5b46fbfa64a8cd289431cda))
+* Commit scope ([#12](https://github.com/Albisetti/ReleasePleaseTest/issues/12)) ([9207103](https://github.com/Albisetti/ReleasePleaseTest/commit/92071038216fac33f40048f29a25bd80626aff4b))
+* **Test:** Add commit ([cd1108d](https://github.com/Albisetti/ReleasePleaseTest/commit/cd1108de0f4fef9ec39613a9d8b47d8310f737c8))
+* **Test:** Commit scope ([#11](https://github.com/Albisetti/ReleasePleaseTest/issues/11)) ([2bdeea8](https://github.com/Albisetti/ReleasePleaseTest/commit/2bdeea85a4946ba6e6b21a5641286db0cdf47187))
+* Updated content ([f1d0117](https://github.com/Albisetti/ReleasePleaseTest/commit/f1d011797fbde27c2adabce47d85978079f61dc6))
+
 ## [1.2.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.1.0...v1.2.0) (2023-04-19)
 
 ### Features
 
 - **Test:** Commit scope ([c2a5d75](https://github.com/Albisetti/ReleasePleaseTest/commit/c2a5d7584e59685a98b729128538483dd69b6ab9))
-
-## [1.1.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.0.1...v1.1.0) (2023-04-19)
 
 ### Features
 
