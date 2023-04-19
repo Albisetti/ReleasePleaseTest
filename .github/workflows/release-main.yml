@@ -1,18 +1,22 @@
 on:
   push:
     branches:
-      - development # Change to your default branch if it's different from 'main'
+      - development
 
 permissions:
   contents: write
   pull-requests: write
 
+name: release-please
+
 jobs:
-  release:
+  release-please:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
         id: release
         with:
-          release-type: node # Change to your project type, if needed
+          release-type: node
           default-branch: main
+          skip-github-release: true
+          command: release-pr
