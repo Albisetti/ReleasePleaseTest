@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.1.0...v1.2.0) (2023-04-19)
+
+
+### Features
+
+* **Test:** Commit scope ([c2a5d75](https://github.com/Albisetti/ReleasePleaseTest/commit/c2a5d7584e59685a98b729128538483dd69b6ab9))
+
 ## [1.1.0](https://github.com/Albisetti/ReleasePleaseTest/compare/v1.0.1...v1.1.0) (2023-04-19)
 
 
