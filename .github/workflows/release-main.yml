@@ -16,3 +16,4 @@ jobs:
         with:
           release-type: node # Change to your project type, if needed
           default-branch: main
+          commit-search-depth: 1
