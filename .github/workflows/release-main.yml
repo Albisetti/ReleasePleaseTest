@@ -15,4 +15,4 @@ jobs:
         id: release
         with:
           release-type: node # Change to your project type, if needed
-          default_branch: main
+          default-branch: main
